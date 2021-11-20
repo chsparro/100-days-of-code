@@ -7,3 +7,11 @@
 **Мысли** .
 
 **Link to work:** [freecodecamp](https://www.freecodecamp.org/)
+
+### День 1: Ноябрь 20, 2021
+
+**Сегодняшний прогресс**: Прошел раздел "Basic HTML and HTML5" курса "Responsive Web Design".
+
+**Мысли** Пока все просто но к практике верстки полноценого макета не готов. Может отдельных элементов. После прохождения "Basic CSS" надо начать
+
+**Link to work:** [freecodecamp](https://www.freecodecamp.org/)
