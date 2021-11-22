@@ -19,3 +19,6 @@ The log of my #100DaysOfCode challenge. Started on [November 19, Monday, 2021].
 - Шрифты. Стилизация текста
 - Отступы и границы
 - Единицы измерения
+
+### R1D3
+Прошел остальные 50% раздела "Basic CSS" курса "Responsive Web Design" от http://freecodecamp.org. Сделал заметки на тему Стилизация текста.

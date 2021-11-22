@@ -26,3 +26,15 @@
 - Единицы измерения
 
 **Link to work:** [freecodecamp](https://www.freecodecamp.org/)
+
+### День 3: Ноябрь 22, 2021
+
+**Сегодняшний прогресс**: Прошел остальные 50% раздела "Basic CSS" курса "Responsive Web Design" от http://freecodecamp.org. Сделал заметки на тему [Стилизация текста](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Fundamentals).
+
+**Мысли** В следующем дне надо будет :
+- Добить тему - [Стилизация текста](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Fundamentals).
+- [Стилизация списков](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Styling_lists)
+- [Стилизация ссылок](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Styling_links)
+- Сделать 50% Applied Visual Design
+
+**Link to work:** [freecodecamp](https://www.freecodecamp.org/)
