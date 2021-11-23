@@ -22,3 +22,6 @@ The log of my #100DaysOfCode challenge. Started on [November 19, Monday, 2021].
 
 ### R1D3
 Прошел остальные 50% раздела "Basic CSS" курса "Responsive Web Design" от http://freecodecamp.org. Сделал заметки на тему Стилизация текста.
+
+### R1D4
+Прошел 50% "Applied Visual Design" на http://freecodecamp.org.  Продолжил изучать тему "Стилизацию текста " на MDN.
