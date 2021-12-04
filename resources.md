@@ -1,42 +1,16 @@
-# Primary Resources on the #100DaysOfCode
+# Ресурсы для изучени Ruby и Ruby on Rails
+## Статьи для изучения
+### Основы Ruby
+1. ["Learning Ruby: From Zero to Hero" from freecodecamp](https://www.freecodecamp.org/news/learning-ruby-from-zero-to-hero-90ad4eecc82d/)
+## Книги
+1. [Head First O'Reilly - Макгаврен Дж. - Изучаем Ruby - 2016]()
+2. [Ruby_Объектно_ориентированное_проектирование]()
 
-[The #100DaysOfCode Official Site](http://100daysofcode.com/)
-
-### Articles
-1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
-2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
-3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
-
-### Podcasts
-
-# Additional Resources on the #100DaysOfCode
-
-## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
-2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
-
-## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
-
-## Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-
-## Books (both coding and non-coding)
-
-### Non-Coding
-1. ["The War of Art" by Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
-2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
-3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
-4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
-
-### Coding
-1. "Professional Node.js" by Teixeira
-2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
-3. "Mastering JavaScript" by Ved Antani
-
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+# Примерный план
+1. Изучение статьи "Learning Ruby: From Zero to Hero" from freecodecamp
+2. Изучение книги "Head First O'Reilly - Макгаврен Дж. - Изучаем Ruby - 2016" и "Флэнаган Д., Мацумото Ю. - Язык программирования Ruby - 2011". Одновременно смотря похожие темы в обоих книгах
+3. Изучение книги "Ruby Объектно ориентированное проектирование"
+4. Сделать какое нибудь CLI приложение:
+   - Помодоро таймер
+   - Автоматизация ведения дневника #100DayOfCode
+   - Что то типо Anki 
