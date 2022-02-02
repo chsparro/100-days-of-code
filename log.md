@@ -1,52 +1,20 @@
 # 100 Days Of Code - Log
 
-### День 0: Ноябрь 19, 2021
+### День 0: Февраль 1, 2022
 
-**Сегодняшний прогресс**: Установил git сделал первый коммит. Выбрал курс по которому буду заниматься [freecodecamp](https://www.freecodecamp.org/). Пройду его потом будет практика.
+**Сегодняшний прогресс**: Начинаю заново. Нашел проект  [The Odin Project](https://www.theodinproject.com/). Зарегелся на codepen.
 
-**Мысли** .
+**Мысли**
+Пока буду идти по [The Odin Project](https://www.theodinproject.com/). Искать практики на
+- https://nisnom.com/
+- https://freefrontend.com/
 
-**Link to work:** [freecodecamp](https://www.freecodecamp.org/)
+**Link to work:**
 
-### День 1: Ноябрь 20, 2021
+### День 0: Февраль 1, 2022
 
-**Сегодняшний прогресс**: Прошел раздел "Basic HTML and HTML5" курса "Responsive Web Design".
-
-**Мысли** Пока все просто но к практике верстки полноценого макета не готов. Может отдельных элементов. После прохождения "Basic CSS" надо начать
-
-**Link to work:** [freecodecamp](https://www.freecodecamp.org/)
-
-### День 2: Ноябрь 21, 2021
-
-**Сегодняшний прогресс**: Прошел 50% раздела "Basic CSS" курса "Responsive Web Design" от http://freecodecamp.org. Сделал заметки на тему селекторы CSS.
-
-**Мысли** В следующем дне надо будет углубиться в темы:
-- Шрифты. Стилизация текста
-- Отступы и границы
-- Единицы измерения
-
-**Link to work:** [freecodecamp](https://www.freecodecamp.org/)
-
-### День 3: Ноябрь 22, 2021
-
-**Сегодняшний прогресс**: Прошел остальные 50% раздела "Basic CSS" курса "Responsive Web Design" от http://freecodecamp.org. Сделал заметки на тему [Стилизация текста](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Fundamentals).
-
-**Мысли** В следующем дне надо будет :
-- Добить тему - [Стилизация текста](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Fundamentals).
-- [Стилизация списков](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Styling_lists)
-- [Стилизация ссылок](https://developer.mozilla.org/ru/docs/Learn/CSS/Styling_text/Styling_links)
-- Сделать 50% Applied Visual Design
-
-**Link to work:** [freecodecamp](https://www.freecodecamp.org/)
-
-### День 4: Ноябрь 23, 2021
-
-**Сегодняшний прогресс**: Прошел 50% "Applied Visual Design" на http://freecodecamp.org.  Продолжил изучать тему "Стилизацию текста " на MDN.
-
-**Мысли** Во первых надо место куда складывать статьи, видео и темы для изучения. На основе которых я буду делать план занятия на день. Отдельный файл в этом репозитории подойдет.
-
-### День 5: Ноябрь 25, 2021
-
-**Сегодняшний прогресс**: Прошел остальные 50% "Applied Visual Design" на http://freecodecamp.org.  Сделал заметки на статью "Блочна модель" с [Доки](https://doka.guide/css/box-model/).
-
-**Мысли** Решил заниматься через день, чередовать с занятиями ЕГЭ. За час не успеваю получить удовлетворение от учебы.
+**Сегодняшний прогресс**
+Начинаю изучать  [The Odin Project](https://www.theodinproject.com/). 
+- Основы::Введение (3 пункта из 6)
+**Мысли**
+- Пока прикольно иду в сторону HTML/CSS
