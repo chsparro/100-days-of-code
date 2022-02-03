@@ -13,3 +13,7 @@ The log of my #100DaysOfCode challenge. Started on [February 1, 2021].
 ### R2D1 
 Начинаю изучать  [The Odin Project](https://www.theodinproject.com/). 
 - Основы::Введение (3 пункта из 6)
+
+### R2D2 
+Изучал тему "Как работает Интернет" в [The Odin Project](https://www.theodinproject.com/). 
+- Основы::Введение (5 пункта из 6)
